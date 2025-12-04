@@ -28,4 +28,10 @@ contiene todos los paquetes y dependencias necesarios para la ejecución del pro
 ## carpeta .netx
 no estoy seguro que contiene creo que contine los ejecutables, no lo se
 ## carpeta app
-contiene el codigo del proyecto 
+contiene el codigo del proyecto
+### archivo favicon.ico
+establece la imgen que se muestra en el la pestaña del navegador
+### archivo globals.css
+especifica todas las caracteristicas css que se aplican al proyecto
+## Archivo layout.tsx
+especifica el punto de partida para la aplicación esto sera usado en todas las paginas
