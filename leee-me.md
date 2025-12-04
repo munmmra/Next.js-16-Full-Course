@@ -7,4 +7,6 @@ https://github.com/munmmra/Next.js-16-Full-Course.git
     webstorm no usado
     vscode usado
 ## crear el poyecto next,js
+```bash
 npx create-next-app@latest ./
+```
