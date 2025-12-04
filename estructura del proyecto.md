@@ -25,3 +25,7 @@ espesifica que archivos y carpetas no son segidos por git
 carpeta para guardar contenido estatico como imagenes
 ## carpeta node_modeles
 contiene todos los paquetes y dependencias necesarios para la ejecución del proyecto
+## carpeta .netx
+no estoy seguro que contiene creo que contine los ejecutables, no lo se
+## carpeta app
+contiene el codigo del proyecto 
